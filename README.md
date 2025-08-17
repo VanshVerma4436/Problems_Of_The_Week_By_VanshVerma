@@ -86,10 +86,10 @@ cd Problems_Of_The_Week_By_VanshVerma
 
 # Install Jupyter (optional)
 pip install jupyter
+
 📁 Problem Structure
 
 Each problem follows a consistent structure:
-
 Problem Title: [Name] (Asked by [Company])
 ├── Problem Statement
 ├── Company Context
