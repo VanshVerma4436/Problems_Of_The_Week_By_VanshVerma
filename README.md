@@ -91,13 +91,13 @@ pip install jupyter
 
 Each problem follows a consistent structure:
  Problem Title: [Name] (Asked by [Company])
-├── Problem Statement
-├── Company Context
-├── Examples with Explanations
-├── Input/Output Format
-├── Constraints
-├── Hints
-└── Solution with Comments
+  ├── Problem Statement
+  ├── Company Context
+  ├── Examples with Explanations
+  ├── Input/Output Format
+  ├── Constraints
+  ├── Hints
+  └── Solution with Comments
 
 
 🛠 Technologies Used
