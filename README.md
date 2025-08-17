@@ -78,7 +78,6 @@ Focus areas:
 - Jupyter Notebook (optional for interactive learning)  
 
 ### Installation  
-```bash
 # Clone the repository
 git clone https://github.com/VanshVerma4436/Problems_Of_The_Week_By_VanshVerma.git  
 
